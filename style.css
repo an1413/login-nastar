@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    border: none;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.l_wrapper {
+    position: relative;
+    /* width: 1280px; */
+}
+
+
+.log-in {
+    /* margin: auto; */
+    padding: 30px 25px;
+    width: 400px;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.login-content {
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+    padding: 19px 16px 18px;
+    width: 350px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+.login-header {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 16px;
+}
+
+.login-btn {
+    margin-bottom: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #711BFF;
+    width: 100%;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.login-btn img {
+    height: 50%;
+}
+
+.login-btn span {
+    color: #fff;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+
+.login-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #767676;
+}
+
+.icon-lock, .icon-user {
+    width: 16px;
+    margin-right: 3px;
+}
+
+.search-my-info {
+    display: flex;
+    align-items:center;
+}
+
+.assign-info {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #fff;
+    position: fixed;
+    bottom: 0;
+    font-size: 10px;
+    font-weight: 300;
+}
+
+.nastar-icon {
+    width: 20px;
+}
