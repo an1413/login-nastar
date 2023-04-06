@@ -12,6 +12,8 @@ HTML, CSS를 실습해보기 위해 만들어본 페이지 이며, 계속해서 
 ![image](https://user-images.githubusercontent.com/87430624/230447570-ad3358df-a0c7-46b4-ad4c-c6db4598c484.png)
 
 간단한 로그인 화면이다.
+
+
 ![image](https://user-images.githubusercontent.com/87430624/230447726-7dab3659-ebac-4f54-91d0-82da6d9082c7.png)
 
 footer바도 만들어주었다.
